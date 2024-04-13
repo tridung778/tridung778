@@ -57,10 +57,12 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-tridung778.vercel.app/?user=tridung778&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-tridung778.vercel.app/api?username=tridung778&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-tridung778.vercel.app/api/top-langs/?username=tridung778&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <a href="#" title="tridung778">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tridung778&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  </a>
+  <a href="#" title="tridung778">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=tridung778&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  </a>
 </div>
 
 <br/><br/>
@@ -68,9 +70,29 @@
 <hr/>
 
 <br/>
-
+<br>
+<h2 align="center">👽 Where to find me 👽</h2>
+<br>
+<!-- https://icons8.com -->
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+  <a href="https://trungquandev.com" target="blank">
+    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
+  </a>
+  <a href="https://facebook.com/trungquandev" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+  </a>
+  <a href="https://www.youtube.com/c/TrungquandevOfficial" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
+  </a>
+  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
+  </a>
+  <a href="https://instagram.com/trungquandev" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
+  </a>
+  <a href="mailto:trungquandev.official@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+  </a>
 </div>
 
 <br/>
