@@ -28,10 +28,10 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate the snake files in './dist/'
-        uses: tridung778
+        uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: tridung778
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
