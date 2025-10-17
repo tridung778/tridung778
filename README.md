@@ -10,7 +10,6 @@
 
 <div align="center">
  
- 🔭 I’m currently studying on **FPT Polytechnic**
  
  🌱 I’m currently learning **Java Spring Boot, Hibernate**
 
